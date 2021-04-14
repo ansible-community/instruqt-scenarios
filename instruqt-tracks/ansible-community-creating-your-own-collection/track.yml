@@ -159,7 +159,7 @@ challenges:
     \   - name: Change TZ\n      timezone:\n        name: Europe/Paris\n```\n\nThe
     above playbook consists of two plays. The first play uses FQCN to call a module
     and the second uses collections keyword.\n\nNow execute the playbook.\n\n```\nansible-playbook
-    send_email_notification.yml\n```\n\n```\nPLAY RECAP **************************************************************************************************************************\nlocalhost
+    configure_timezone.yml\n```\n\n```\nPLAY RECAP **************************************************************************************************************************\nlocalhost
     \                 : ok=4    changed=1    unreachable=0    failed=0    skipped=0
     \   rescued=0    ignored=0\n```\n\nThe above output confirms that the playbook
     ran successfully.\n\nAlso, you can verify the system timezone settings by executing
