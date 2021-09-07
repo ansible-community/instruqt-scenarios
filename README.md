@@ -1,9 +1,6 @@
-# instruqt-scenarios
- 
-This repository contains the source of all Ansible Community related tracks on [Instruqt online training platform](https://play.instruqt.com/redhat)
+## Archived
 
-## Currently Available Scenarios
-- Scenario 1: Using ansible-test to identify a module that needs fixing
-- Scenario 2: Creating your own collection
+We now have a single repository for all Ansible Instruqt courses.
 
-Feedback welcome, join the [discussion](https://github.com/ansible-community/instruqt-scenarios/discussions/3#discussion-3401085).
+You can find the new repo and courses online at [https://github.com/ansible/instruqt](https://github.com/ansible/instruqt)
+
